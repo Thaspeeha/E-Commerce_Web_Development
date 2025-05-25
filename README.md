@@ -59,9 +59,10 @@ E-commerce Website for Outdoor Gear
 
 
 ## 📌 Status
-✅ Functional MVP completed and tested  
+✅ Functional MVP completed and tested
+🔄 Challenges and Project Proposal Report
 
-## 📷 Reporting of Challenges Faced
+## 📷 Reporting of Challenges Faced and Project Proposal
 *Coming soon*
 
 
