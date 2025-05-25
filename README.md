@@ -54,7 +54,7 @@
 
 ## 👥 Team & Contributions
 - **Role:** Co-developer & UI/UX Contributor  
-- **Tools Used:** Wix Studio, Canva, Google Docs
+- **Tools Used:** Wix Studio, Google Docs
 
 
 
