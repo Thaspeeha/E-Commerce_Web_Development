@@ -39,7 +39,7 @@ E-commerce Website for Outdoor Gear
 - Validated site performance and security protocols.
 
 
-## 📈 Challenges
+## 📈 Challenges(abstract)
 - **Time constraints** due to academic and personal commitments.
 - **Coordination across team members** working remotely.
 - Overcame obstacles through strong communication and task delegation.
@@ -61,6 +61,8 @@ E-commerce Website for Outdoor Gear
 ## 📌 Status
 ✅ Functional MVP completed and tested  
 
+## 📷 Reporting of Challenges Faced
+*Coming soon*
 
 
 ## 📝 License
