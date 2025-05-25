@@ -60,7 +60,7 @@
 
 ## 📌 Status
 ✅ Functional MVP completed and tested  
-🔄 Continuous improvement under consideration
+
 
 
 ## 📝 License
