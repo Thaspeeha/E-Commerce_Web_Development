@@ -53,7 +53,7 @@
 
 
 ## 👥 Team & Contributions
-- **Role:** Co-developer & UI/UX Contributor  
+- **Role:** Co-developer, UI/UX Contributor and reporting  
 - **Tools Used:** Wix Studio, Google Docs
 
 
