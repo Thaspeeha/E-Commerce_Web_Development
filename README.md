@@ -56,6 +56,7 @@ https://grp7125.wixstudio.com/my-site-10
 ## 👥 Team & Contributions
 - **Role:** Co-developer, UI/UX Contributor and reporting  
 - **Tools Used:** Wix Studio, Google Docs, Canva
+- **Team Size:** 5 Members
 
 
 
