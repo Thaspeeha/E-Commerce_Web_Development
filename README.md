@@ -1,6 +1,5 @@
 # E-Commerce_Web_Development
 E-commerce Website for Outdoor Gear 
-https://grp7125.wixstudio.com/my-site-10
 
 ## 🌐 Overview
 **Gear Up & Go** is an e-commerce platform built using **Wix Studio** that caters to outdoor enthusiasts. The site features a curated range of **adventure, hiking, and camping gear**, designed to provide users with a seamless shopping experience across all devices.
