@@ -51,12 +51,14 @@
 - Add user accounts, order tracking, and loyalty features.
 
 
-## 👥 Team & Contributions
+## 👥 Contributions
 - **Role:** Co-developer, UI/UX Contributor and reporting  
 - **Tools Used:** Wix Studio, Google Docs, Canva
 - **Team Size:** 5 Members
 
-
+## 👥 Contributors
+[![Aqib Ashraf](https://img.shields.io/badge/Aqib-Ashraf-purple)](https://www.linkedin.com/in/aqib-ashraf-2b4778244/)
+[![Thaneesha Sreenivasan](https://img.shields.io/badge/Thaneesha-Sreenivasan-blue)](https://www.linkedin.com/in/thaneeshas/)
 
 ## 📌 Status
 ✅ Functional MVP completed and tested
