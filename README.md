@@ -59,6 +59,8 @@
 ## 👥 Contributors
 [![Aqib Ashraf](https://img.shields.io/badge/Aqib-Ashraf-purple)](https://www.linkedin.com/in/aqib-ashraf-2b4778244/)
 [![Thaneesha Sreenivasan](https://img.shields.io/badge/Thaneesha-Sreenivasan-blue)](https://www.linkedin.com/in/thaneeshas/)
+[![Mohammad Afnan](https://img.shields.io/badge/Mohammad-Afnan-blue)]
+[![Jasil](https://img.shields.io/badge/Jasil-blue)]
 
 ## 📌 Status
 ✅ Functional MVP completed and tested
