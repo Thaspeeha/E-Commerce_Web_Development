@@ -70,6 +70,8 @@
 ## 📷 Reporting of Challenges Faced and Project Proposal
 *Coming soon*
 
+## 🖥️ Presentation
+[![PPT](https://img.shields.io/badge/Presentation-PPTX-blue)](https://www.canva.com/design/DAHEVkbCetk/-7SvyNlHMgY3WDQTt8CbHw/view?utm_content=DAHEVkbCetk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he6603ee9cb)  
 
 ## 📝 License
 This project was developed for educational purposes and is not intended for commercial deployment without further development.
