@@ -53,7 +53,7 @@
 
 ## 👥 Contributions
 - **Role:** Co-developer, UI/UX Contributor and reporting  
-- **Tools Used:** Wix Studio, Google Docs, Canva
+- **Tools Used:** Wix Studio, Google Docs, Canva, Trello
 - **Team Size:** 5 Members
 
 ## 👥 Contributors
